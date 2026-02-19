@@ -56,5 +56,5 @@ Passionate about building scalable infrastructure, automating deployments, and d
 
 ## 📅 Daily Practice Structure
 
-Each folder/file represents hands-on learning tasks, labs, notes, or mini-projects completed daily.
+Each folder/file represents hands-on learning tasks, labs, notes, or mini-projects completed daily..
 
